@@ -10,8 +10,8 @@ print(
 | Então, qual é o número secreto?   |
 +===================================+
 """)
-numero = int(input('Numero:'))
-while secret_number != numero:
+number = int(input('Numero:'))
+while secret_number != number:
     print('Ha ha! Você está preso no meu loop!')
-    numero = int(input('Numero:'))
+    number = int(input('Numero:'))
 print('Muito bem, trouxa! Você está livre agora.')
