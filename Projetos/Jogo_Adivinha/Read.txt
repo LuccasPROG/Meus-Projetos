@@ -1,0 +1,4 @@
+Jogo Adivinha - 
+
+1. pede para digitar um numero
+2. fica preso no loop ate que o numero certo seja digitado
