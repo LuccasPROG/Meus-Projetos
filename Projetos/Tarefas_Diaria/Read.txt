@@ -1,0 +1,5 @@
+Tarefas Diaria - 
+
+1. pede para digitar uma tarefa que deseja adicionar a lista de Tarefas ou digita Sair para encerrar
+2. cria uma funcion que adiciona as tarefas diaria na lista
+3. cria outra funcion novamente que mostra as tarefas diarias

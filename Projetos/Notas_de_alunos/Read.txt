@@ -1,0 +1,6 @@
+Notas de Alunos - 
+
+1. Pede para digitar um nome de aluno ou digitar Sair para encerrar
+2. Pede para digita a nota do aluno 
+3. chama uma funcion que cadastra os Alunos
+4. chama outra funcion que mostra os Alunos Cadastrados

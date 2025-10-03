@@ -1,0 +1,6 @@
+O Script Maior_numero - 
+
+1. Pede um Numero para o usuario
+2. Verifica o Maior Numero e o Menor Numero
+3. Pergunta se quer continuar 
+4. Mostra o Maior Numero digitado e o menor numero digitado

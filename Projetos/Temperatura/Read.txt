@@ -1,0 +1,5 @@
+Conversor de Temperatura - 
+
+1. Pede para digitar uma temperatura em Cº
+2. Converte a temperatura de ceusius para Fahrenheit
+3. Pergunta se deseja continuar 
