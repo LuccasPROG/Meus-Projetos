@@ -22,7 +22,6 @@
 Este repositório reúne projetos que desenvolvi utilizando Python, sempre buscando aplicar boas práticas, recursos modernos da linguagem e interfaces agradáveis quando possível.
 
 - **Código Limpo e Atual:** Uso de f-strings, tipagem, recursos do Python 3+, etc.
-- **Interface Moderna:** Alguns projetos apresentam interfaces gráficas (Tkinter, PyQt, etc) ou web (Streamlit, Flask...).
 - **Organização e Facilidade de Uso:** Cada projeto possui instruções próprias, facilitando a execução.
 
 ---
